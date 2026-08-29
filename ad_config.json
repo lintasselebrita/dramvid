@@ -1,6 +1,6 @@
 {
   "enable_ads": true,
-  "enable_app_open": true,
+  "enable_app_open": false,
   "enable_rewarded": false,
   "app_open_interval_seconds": 900
 }
