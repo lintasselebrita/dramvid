@@ -2,6 +2,6 @@
   "enable_ads": true,
   "enable_app_open": true,
   "enable_rewarded": true,
-  "enable_native": true,
+  "enable_native": false,
   "app_open_interval_seconds": 0
 }
