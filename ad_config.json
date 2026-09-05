@@ -1,5 +1,5 @@
 {
-  "enable_ads": false,
+  "enable_ads": true,
   "enable_app_open": true,
   "enable_rewarded": true,
   "enable_native": true,
